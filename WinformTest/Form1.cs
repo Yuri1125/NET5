@@ -25,6 +25,7 @@ namespace WinformTest
         public void test()
         {
             Console.WriteLine("Test");
+            Console.WriteLine("hi");
         }
     }
 }
