@@ -24,7 +24,7 @@ namespace WinformTest
         }
         public void test()
         {
-            
+            Console.WriteLine("Test");
         }
     }
 }
