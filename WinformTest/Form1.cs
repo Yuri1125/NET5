@@ -27,5 +27,9 @@ namespace WinformTest
             Console.WriteLine("Test");
             Console.WriteLine("hi");
         }
+        pubilc void Html()
+        {
+        
+        }
     }
 }
